@@ -1,0 +1,10 @@
+# compiled sources #
+####################
+*.out
+*.exe
+*.o
+*.dll
+*.class
+*.gch
+*.xml
+*.fxml

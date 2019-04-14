@@ -1,0 +1,9 @@
+sd 2
+re 2
+rr 2
+de 1
+lol 5
+sc 2
+dr 1
+KH 4
+kH 1

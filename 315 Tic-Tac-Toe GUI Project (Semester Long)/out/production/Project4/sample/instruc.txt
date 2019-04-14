@@ -1,0 +1,6 @@
+How to Play:
+1. The four grids represent a 3D Tic Tac Toe board.
+    (The leftmost board is the top plane and the rightmost is the bottom plane)
+2. Use arrow keys to navigate the grid
+3. Press enter to place an 'X' at that position
+4. First to four in a row (rows/columns/diagonals) is the winner!
